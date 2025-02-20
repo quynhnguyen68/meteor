@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.3.0
+
+### Minor Changes
+
+- ef58de6: chore: export type Toast
+
+### Patch Changes
+
+- 0d00f6f: Do not show bottom shadow in modal when content is not scrollable
+
 ## 4.2.0
 
 ### Minor Changes
